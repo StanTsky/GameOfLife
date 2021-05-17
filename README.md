@@ -3,7 +3,7 @@
 ![screenshot](https://raw.githubusercontent.com/StanTsky/GameOfLife/main/ExampleRun.png)
 
 ## Description
-Game of Life
+Conway's Game of Life
 
 ## Purpose
 Learning C#, etc.
